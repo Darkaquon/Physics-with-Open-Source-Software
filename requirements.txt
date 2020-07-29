@@ -1,1 +1,1 @@
-widgets==7.5.1
+ipywidgets==7.5.1
