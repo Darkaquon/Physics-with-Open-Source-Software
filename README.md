@@ -1,10 +1,9 @@
 # Tesi
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/POSS-UniMe/simple-physics-with-Python/master)
+## Titolo Tesi
 
-## Esempi ed esercizi di Fisica
+### Parte I. Notebook sul moto 1-D
 
-### Parte I. Moto 1-D
 #### Sezione 1. Moto con velocità costante
 1. [Tempo di reazione. Spazio di reazione](/notebook/SpazioReazione.ipynb)
 2. [Sensore ultrasonico di distanza](/notebook/SensoreDistanza.ipynb)
@@ -16,16 +15,21 @@
 #### Sezione 3. Esperimenti ed analisi dei dati
 1. [Viaggio in ascensore](/notebook/ViaggioInAscensoreVer001.ipynb)
 2. Moto lungo un piano inclinato
-### Parte II. Moto 2-D
+
+### Parte II. Notebook sul moto 2-D
+
 #### Sezione 1. Moto circolare
 #### Sezione 2. Moto parabolico
 
 &nbsp;
 
 ### Appendici
+
 #### Trigonometria
 
 &nbsp;
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/POSS-UniMe/simple-physics-with-Python/master)
 
 &nbsp;
 
