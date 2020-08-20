@@ -1,3 +1,4 @@
+<p style="text-align: center;">Centered text</p>
 <center> # Tesi </center>
 
 ## Titolo Tesi
