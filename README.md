@@ -1,9 +1,9 @@
-<p style="text-align: center;">Centered text</p>
-<center> # Tesi </center>
 <div align="center">
 
-# This is gonna be centered!
+# Tesi
+
 </div>
+
 ## Titolo Tesi
 
 ### Parte I. Notebook sul moto 1-D
