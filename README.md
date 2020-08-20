@@ -1,7 +1,5 @@
 <div align="center">
-
 # Tesi
-
 </div>
 
 ## Titolo Tesi
