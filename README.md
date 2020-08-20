@@ -5,7 +5,7 @@
 ## Esempi ed esercizi di Fisica
 
 ### Parte I. Moto 1-D
-* #### Sezione 1. Moto con velocità costante
+#### Sezione 1. Moto con velocità costante
 1. [Tempo di reazione. Spazio di reazione](/notebook/SpazioReazione.ipynb)
 2. [Sensore ultrasonico di distanza](/notebook/SensoreDistanza.ipynb)
 3. [Distanza Terra-Luna](/notebook/DistanzaTerraLunaVer2.ipynb)
