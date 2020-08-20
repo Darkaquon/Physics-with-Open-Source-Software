@@ -1,8 +1,14 @@
 <div align="center">
+
 # Tesi
+
 </div>
 
+<div align="center">
+
 ## Titolo Tesi
+
+</div>
 
 ### Parte I. Notebook sul moto 1-D
 
