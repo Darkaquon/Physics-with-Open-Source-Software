@@ -1,4 +1,4 @@
-# Tesi
+<center> # Tesi </center>
 
 ## Titolo Tesi
 
