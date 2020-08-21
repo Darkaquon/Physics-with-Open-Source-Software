@@ -16,7 +16,7 @@
 
 #### Sezione 1. Moto con velocità costante
 
-1. [Tempo di reazione. Spazio di reazione](/notebook/SpazioReazione.ipynb)
+1. [Spazio di reazione](/Notebook/Spazio di reazione.ipynb)
 2. [Sensore ultrasonico di distanza](/notebook/SensoreDistanza.ipynb)
 3. [Distanza Terra-Luna](/notebook/DistanzaTerraLunaVer2.ipynb)
 4. [Comunicazioni a lunga distanza (latency)](ComunicazioniLungaDistanza.ipynb)
