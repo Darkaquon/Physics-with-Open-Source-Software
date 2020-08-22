@@ -12,7 +12,7 @@
 
 &nbsp;
 
-### Parte I. Notebook sul moto 1-D
+### Parte 1. Notebook sul moto 1-D
 
 #### Sezione 1. Moto con velocità costante
 
@@ -31,13 +31,13 @@
 1. [Viaggio in ascensore](/notebook/ViaggioInAscensoreVer001.ipynb)
 2. Moto lungo un piano inclinato
 
-### Parte II. Notebook sul moto 2-D
+### Parte 2. Notebook sul moto 2-D
 
 #### Sezione 1. Moto circolare
 
 #### Sezione 2. Moto parabolico
 
-### Parte III.
+### Parte 3.
 
 #### Sezione 1. Trigonometria
 
