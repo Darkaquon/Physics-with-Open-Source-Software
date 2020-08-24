@@ -37,7 +37,7 @@
 
 #### Sezione 2. Moto parabolico
 
-### Parte 3.
+### Parte 3. Materiale di supporto
 
 #### Sezione 1. Trigonometria
 
