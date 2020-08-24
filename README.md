@@ -19,7 +19,7 @@
 1. [Spazio di reazione](/Notebook/Spazio_di_reazione.ipynb)
 2. [Sensore ultrasonico di distanza](/notebook/SensoreDistanza.ipynb)
 3. [Distanza Terra-Luna](/notebook/DistanzaTerraLunaVer2.ipynb)
-4. [Comunicazioni a lunga distanza (latency)](ComunicazioniLungaDistanza.ipynb)
+4. [Comunicazioni a lunga distanza](ComunicazioniLungaDistanza.ipynb)
 
 #### Sezione 2. Moto con accelerazione costante
 
@@ -47,7 +47,10 @@
 
 &nbsp;
 
+### Acknowledgment
+
+Progetto realizzato sull'esempio dell'archivio GitHub [Engineering Computations](https://github.com/engineersCode/EngComp) di Lorena A. Barba e Natalia C. Clementi.
+
 ### Copyright and License
 -------------------------
-(c) 2020 Marco Guarnera, Andrea Mandanici, Giuseppe Mandaglio, Giovanni Pirrotta. All content is under Creative Common Attribution
-<a rel="license" href="https://creativecommons.org/licenses/by/4.0"> CC BY 4.0 and all code is under [BSD 3 - Clause License.](https://opensource.org/licenses/BSD-3-Clause)
+(c) 2020 Marco Guarnera, Andrea Mandanici, Giuseppe Mandaglio, Giovanni Pirrotta. **P**hysics with **O**pen **S**ource **S**oftware - UniMe (Università di Messina). All content is under Creative Common Attribution <a rel="license" href="https://creativecommons.org/licenses/by/4.0"> CC BY 4.0 and all code is under [BSD 3 - Clause License](https://opensource.org/licenses/BSD-3-Clause)
