@@ -23,8 +23,8 @@
 
 #### Sezione 2. Moto con accelerazione costante
 
-1. [Caduta libera](/notebook/CadutaDeiGravi.ipynb)
-2. [Accelerazione massima di un'automobile](/notebook/AccelerazioneAutomobile.ipynb)
+1. [Caduta libera](/Notebook/Caduta_libera.ipynb)
+2. [Accelerazione massima di un'automobile](/Notebook/Accelerazione_automobile.ipynb)
 
 #### Sezione 3. Esperimenti e analisi dei dati
 
