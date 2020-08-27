@@ -28,7 +28,7 @@
 
 #### Sezione 3. Esperimenti e analisi dei dati
 
-1. [Viaggio in ascensore](/notebook/ViaggioInAscensoreVer001.ipynb)
+1. [Viaggio in ascensore](/Notebook/Viaggio_in_ascensore.ipynb)
 2. Moto lungo un piano inclinato
 
 ### Parte 2. Notebook sul moto 2-D
