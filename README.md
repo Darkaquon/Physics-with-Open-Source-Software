@@ -10,7 +10,7 @@
 
 </div>
 
-&nbsp;
+&nbsp
 
 ### Parte 1. Notebook sul moto 1-D
 
