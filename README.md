@@ -1,10 +1,10 @@
-<div align="center">
+<div align = "center">
 
 # Tesi
 
 </div>
 
-<div align="center">
+<div align = "center">
 
 ## Titolo Tesi
 
