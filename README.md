@@ -19,7 +19,7 @@
 1. [Spazio di reazione](/Notebook/Spazio_di_reazione.ipynb)
 2. [Sensore ultrasonico di distanza](/Notebook/Sensore_di_distanza.ipynb)
 3. [Distanza Terra-Luna](/Notebook/Distanza_Terra_Luna.ipynb)
-4. [Comunicazioni a lunga distanza](ComunicazioniLungaDistanza.ipynb)
+4. [Comunicazioni a lunga distanza](Comunicazioni_a_lunga_distanza.ipynb)
 
 #### Sezione 2. Moto con accelerazione costante
 
