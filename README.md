@@ -17,14 +17,14 @@
 #### Sezione 1. Moto con velocità costante
 
 1. [Spazio di reazione](/Notebook/Spazio_di_reazione.ipynb)
-2. [Sensore ultrasonico di distanza](/Notebook/Sensore_di_distanza.ipynb)
+2. [Sensore di distanza](/Notebook/Sensore_di_distanza.ipynb)
 3. [Distanza Terra-Luna](/Notebook/Distanza_Terra_Luna.ipynb)
 4. [Comunicazioni a lunga distanza](/Notebook/Comunicazioni_a_lunga_distanza.ipynb)
 
 #### Sezione 2. Moto con accelerazione costante
 
 1. [Caduta libera](/Notebook/Caduta_libera.ipynb)
-2. [Accelerazione massima di un'automobile](/Notebook/Accelerazione_automobile.ipynb)
+2. [Accelerazione di un'automobile](/Notebook/Accelerazione_automobile.ipynb)
 
 #### Sezione 3. Esperimenti e analisi dei dati
 
