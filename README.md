@@ -1,6 +1,6 @@
 <div align = "center">
 
-# Tesi
+# **P**hysics with **O**pen **S**ource **S**oftware
 
 </div>
 
