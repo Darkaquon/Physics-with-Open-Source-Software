@@ -1,12 +1,6 @@
 <div align = "center">
 
-# **P**hysics with **O**pen **S**ource **S**oftware
-
-</div>
-
-<div align = "center">
-
-## **P**hysics with **O**pen **S**ource **S**oftware
+# Physics with Open Source Software
 
 </div>
 
