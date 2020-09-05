@@ -8,32 +8,36 @@
 
 ### Parte 1. Notebook sul moto 1-D
 
-#### Sezione 1. Moto con velocità costante
+##### Sezione 1. Moto con velocità costante
 
 1. [Spazio di reazione](/Notebook/Spazio_di_reazione.ipynb)
 2. [Sensore di distanza](/Notebook/Sensore_di_distanza.ipynb)
 3. [Distanza Terra-Luna](/Notebook/Distanza_Terra_Luna.ipynb)
 4. [Comunicazioni a lunga distanza](/Notebook/Comunicazioni_a_lunga_distanza.ipynb)
 
-#### Sezione 2. Moto con accelerazione costante
+##### Sezione 2. Moto con accelerazione costante
 
 1. [Caduta libera](/Notebook/Caduta_libera.ipynb)
 2. [Accelerazione di un'automobile](/Notebook/Accelerazione_automobile.ipynb)
 
-#### Sezione 3. Esperimenti e analisi dei dati
+##### Sezione 3. Esperimenti e analisi dei dati
 
 1. [Viaggio in ascensore](/Notebook/Viaggio_in_ascensore.ipynb)
 2. [Moto lungo un piano inclinato](/Notebook/Piano_inclinato.ipynb)
 
 ### Parte 2. Notebook sul moto 2-D
 
-#### Sezione 1. Moto circolare
+##### Sezione 1. Moto parabolico
 
-#### Sezione 2. Moto parabolico
+1. [Moto di un proiettile](/Notebook/Moto_proiettile.ipynb)
+
+##### Sezione 2. Moto circolare
+
+1. [Moto circolare uniforme](/Notebook/Moto_circolare_uniforme.ipynb)
 
 ### Parte 3. Materiale di supporto
 
-#### Sezione 1. Trigonometria
+##### Sezione 1. Trigonometria
 
 &nbsp;
 
