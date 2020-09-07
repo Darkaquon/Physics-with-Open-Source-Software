@@ -37,7 +37,7 @@
 
 ### Parte 3. Materiale di supporto
 
-##### Sezione 1. Trigonometria
+##### Sezione 1. Angoli e funzioni trigonometriche
 
 &nbsp;
 
