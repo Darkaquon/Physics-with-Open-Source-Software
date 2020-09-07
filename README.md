@@ -12,8 +12,8 @@
 
 1. [Spazio di reazione](https://nbviewer.jupyter.org/github/Darkaquon/Tesi/blob/master/Notebook/Spazio_di_reazione.ipynb)
 2. [Sensore di distanza](https://nbviewer.jupyter.org/github/Darkaquon/Tesi/blob/master/Notebook/Sensore_di_distanza.ipynb)
-3. [Distanza Terra-Luna](/Notebook/Distanza_Terra_Luna.ipynb)
-4. [Comunicazioni a lunga distanza](/Notebook/Comunicazioni_a_lunga_distanza.ipynb)
+3. [Distanza Terra-Luna](https://nbviewer.jupyter.org/github/Darkaquon/Tesi/blob/master/Notebook/Distanza_Terra_Luna.ipynb)
+4. [Comunicazioni a lunga distanza](https://nbviewer.jupyter.org/github/Darkaquon/Tesi/blob/master/Notebook/Comunicazioni_a_lunga_distanza.ipynb)
 
 ##### Sezione 2. Moto con accelerazione costante
 
