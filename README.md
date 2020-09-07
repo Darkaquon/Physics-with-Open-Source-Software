@@ -15,29 +15,29 @@
 3. [Distanza Terra-Luna](https://nbviewer.jupyter.org/github/Darkaquon/Tesi/blob/master/Notebook/Distanza_Terra_Luna.ipynb)
 4. [Comunicazioni a lunga distanza](https://nbviewer.jupyter.org/github/Darkaquon/Tesi/blob/master/Notebook/Comunicazioni_a_lunga_distanza.ipynb)
 
-##### Sezione 2. Moto con accelerazione costante
+* ##### Sezione 2. Moto con accelerazione costante
 
 1. [Caduta libera](https://nbviewer.jupyter.org/github/Darkaquon/Tesi/blob/master/Notebook/Caduta_libera.ipynb)
 2. [Accelerazione di un'automobile](https://nbviewer.jupyter.org/github/Darkaquon/Tesi/blob/master/Notebook/Accelerazione_automobile.ipynb)
 
-##### Sezione 3. Esperimenti e analisi dei dati
+* ##### Sezione 3. Esperimenti e analisi dei dati
 
 1. [Viaggio in ascensore](https://nbviewer.jupyter.org/github/Darkaquon/Tesi/blob/master/Notebook/Viaggio_in_ascensore.ipynb)
 2. [Moto lungo un piano inclinato](https://nbviewer.jupyter.org/github/Darkaquon/Tesi/blob/master/Notebook/Piano_inclinato.ipynb)
 
 ### Parte 2. Notebook sul moto 2-D
 
-##### Sezione 1. Moto parabolico
+* ##### Sezione 1. Moto parabolico
 
 1. [Moto di un proiettile](https://nbviewer.jupyter.org/github/Darkaquon/Tesi/blob/master/Notebook/Moto_proiettile.ipynb)
 
-##### Sezione 2. Moto circolare
+* ##### Sezione 2. Moto circolare
 
 1. [Moto circolare uniforme](https://nbviewer.jupyter.org/github/Darkaquon/Tesi/blob/master/Notebook/Moto_circolare_uniforme.ipynb)
 
 ### Parte 3. Materiale di supporto
 
-##### Sezione 1. Angoli e funzioni trigonometriche
+* ##### Sezione 1. Angoli e funzioni trigonometriche
 
 &nbsp;
 
