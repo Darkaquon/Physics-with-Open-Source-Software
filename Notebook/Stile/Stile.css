@@ -60,6 +60,7 @@ div.text_cell_render {
     font-size: 250%;
     line-height: 100%;
     color: #004065;
+    text-align: center;
     margin-bottom: 1em;
     margin-top: 0.5em;
     display: block;
