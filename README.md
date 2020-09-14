@@ -37,7 +37,10 @@
 
 ### Parte 3. Materiale di supporto
 
-* ##### Sezione 1. Angoli e funzioni trigonometriche
+* ##### Sezione 1. Trigonometria
+
+1. [Angoli](https://nbviewer.jupyter.org/github/Darkaquon/Tesi/blob/master/Notebook/Angoli.ipynb)
+2. [Funzioni trigonometriche](https://nbviewer.jupyter.org/github/Darkaquon/Tesi/blob/master/Notebook/Funzioni.ipynb)
 
 &nbsp;
 
