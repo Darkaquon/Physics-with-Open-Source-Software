@@ -29,7 +29,7 @@
 
 * ##### Sezione 1. Moto parabolico
 
-1. [Moto di un proiettile](https://nbviewer.jupyter.org/github/Darkaquon/Tesi/blob/master/Notebook/Moto_proiettile.ipynb)
+1. [Moto di un proiettile](https://nbviewer.jupyter.org/github/Darkaquon/Physics-with-Open-Source-Software/blob/master/Notebook/Moto_proiettile.ipynb)
 
 * ##### Sezione 2. Moto circolare
 
