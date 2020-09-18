@@ -18,7 +18,7 @@
 * ##### Sezione 2. Moto con accelerazione costante
 
 1. [Caduta libera](https://nbviewer.jupyter.org/github/Darkaquon/Tesi/blob/master/Notebook/Caduta_libera.ipynb)
-2. [Accelerazione di un'automobile](https://nbviewer.jupyter.org/github/Darkaquon/Tesi/blob/master/Notebook/Accelerazione_automobile.ipynb)
+2. [Accelerazione di un'automobile](https://nbviewer.jupyter.org/github/Darkaquon/Physics-with-Open-Source-Software/blob/master/Notebook/Accelerazione_automobile.ipynb)
 
 * ##### Sezione 3. Esperimenti e analisi dei dati
 
