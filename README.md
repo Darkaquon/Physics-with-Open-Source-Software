@@ -22,7 +22,7 @@
 
 * ##### Sezione 3. Esperimenti e analisi dei dati
 
-1. [Viaggio in ascensore](https://nbviewer.jupyter.org/github/Darkaquon/Tesi/blob/master/Notebook/Viaggio_in_ascensore.ipynb)
+1. [Viaggio in ascensore](https://nbviewer.jupyter.org/github/Darkaquon/Physics-with-Open-Source-Software/blob/master/Notebook/Viaggio_in_ascensore.ipynb)
 2. [Moto lungo un piano inclinato](https://nbviewer.jupyter.org/github/Darkaquon/Physics-with-Open-Source-Software/blob/master/Notebook/Piano_inclinato.ipynb)
 
 ### Parte 2. Notebook sul moto 2-D
