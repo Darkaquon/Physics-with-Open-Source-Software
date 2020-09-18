@@ -33,7 +33,7 @@
 
 * ##### Sezione 2. Moto circolare
 
-1. [Moto circolare uniforme](https://nbviewer.jupyter.org/github/Darkaquon/Tesi/blob/master/Notebook/Moto_circolare_uniforme.ipynb)
+1. [Moto circolare uniforme](https://nbviewer.jupyter.org/github/Darkaquon/Physics-with-Open-Source-Software/blob/master/Notebook/Moto_circolare_uniforme.ipynb)
 
 ### Parte 3. Materiale di supporto
 
