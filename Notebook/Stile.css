@@ -1,0 +1,103 @@
+/* Grafica del notebook */
+
+<style>
+
+/* */
+@font-face {
+    font-family: "Computer Modern";
+    src: url("http://mirrors.ctan.org/fonts/cm-unicode/fonts/otf/cmunss.otf");
+}
+
+/* Main background */
+#notebook_panel {
+    background: rgb(245, 245, 245);
+}
+
+/* Formatting for header cells */
+.text_cell_render h1 {
+    font-family: "Merriweather", serif;
+    font-style: regular;
+    font-weight: bold;
+    font-size: 250%;
+    line-height: 100%;
+    color: #FF8000;
+    text-align: center;
+    margin-bottom: 1em;
+    margin-top: 0.5em;
+    display: block;
+}
+
+.text_cell_render h2 {
+    font-family: "Merriweather", serif;
+    font-weight: bold;
+    font-size: 180%;
+    line-height: 100%;
+    color: #0096d6;
+    margin-bottom: 0.5em;
+    margin-top: 0.5em;
+    display: block;
+}
+
+.text_cell_render h3 {
+    font-family: "Merriweather", serif;
+	font-size: 150%;
+    margin-top: 12px;
+    margin-bottom: 3px;
+    font-style: regular;
+    color: #008367;
+}
+
+.text_cell_render h4 {
+    font-family: "Merriweather", serif;
+    font-weight: 300;
+    font-size: 100%;
+    line-height: 120%;
+    text-align: left;
+    width: 500px;
+    margin-top: 1em;
+    margin-bottom: 2em;
+    margin-left: 80pt;
+    font-style: regular;
+}
+
+.text_cell_render h5 {
+    font-family: "Source Sans Pro", sans-serif;
+    font-weight: regular;
+    font-size: 130%;
+    color: #e31937;
+    font-style: italic;
+    margin-bottom: .5em;
+    margin-top: 1em;
+    display: block;
+}
+
+.text_cell_render h6 {
+    font-family: "Source Code Pro", sans-serif;
+    font-weight: 300;
+    font-size: 9pt;
+    line-height: 100%;
+    color: grey;
+    margin-bottom: 1px;
+    margin-top: 1px;
+}
+
+/* */
+#colorbox {
+  background-color: #cfc;
+  padding: 10px;
+  border: 1px solid green;
+}
+
+    .CodeMirror {
+            font-family: "Source Code Pro";
+			font-size: 90%;
+    }
+/*    .prompt{
+        display: None;
+    }*/
+	    
+    .warning {
+        color: rgb(240, 20, 20)
+        }
+
+</style>
