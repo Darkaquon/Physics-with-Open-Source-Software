@@ -57,7 +57,7 @@ See the Jupyter notebooks with **Binder**.
 ### Acknowledgment
 
 Progetto realizzato sull'esempio dell'archivio GitHub [Engineering Computations](https://github.com/engineersCode/EngComp) di Lorena A. Barba e Natalia C. Clementi.
------
+
 ### Copyright and License
 -------------------------
 (c) 2020 Marco Guarnera, Andrea Mandanici, Giuseppe Mandaglio, Giovanni Pirrotta. **P**hysics with **O**pen **S**ource **S**oftware - UniMe (Università di Messina). All content is under Creative Common Attribution <a rel="license" href="https://creativecommons.org/licenses/by/4.0"> CC BY 4.0 </a> and all code is under [BSD 3 - Clause License.](https://opensource.org/licenses/BSD-3-Clause)
