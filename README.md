@@ -55,7 +55,7 @@ See the Jupyter notebooks with **Binder**.
 &nbsp;
 
 ### Acknowledgment
-
+-----------------------
 Progetto realizzato sull'esempio dell'archivio GitHub [Engineering Computations](https://github.com/engineersCode/EngComp) di Lorena A. Barba e Natalia C. Clementi.
 
 ### Copyright and License
