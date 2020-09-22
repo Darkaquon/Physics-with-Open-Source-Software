@@ -6,9 +6,9 @@
 
 &nbsp;
 
-## Parte 1. Notebook sul moto 1-D
+### Parte 1. Notebook sul moto 1-D
 
-* ##### Sezione 1. Moto con velocità costante
+* #### Sezione 1. Moto con velocità costante
 
 1. [Spazio di reazione](https://nbviewer.jupyter.org/github/Darkaquon/Physics-with-Open-Source-Software/blob/master/Notebook/Spazio_di_reazione.ipynb)
 2. [Sensore di distanza](https://nbviewer.jupyter.org/github/Darkaquon/Physics-with-Open-Source-Software/blob/master/Notebook/Sensore_di_distanza.ipynb)
