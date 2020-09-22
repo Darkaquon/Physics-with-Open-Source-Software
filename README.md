@@ -47,9 +47,9 @@
 <div align = "center">
 
 See the Jupyter notebooks with **Binder**.
--------------------------
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Darkaquon/Physics-with-Open-Source-Software/master)
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Darkaquon/Physics-with-Open-Source-Software/master)
+---------------
 </div>
 
 &nbsp;
