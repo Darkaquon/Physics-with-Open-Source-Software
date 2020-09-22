@@ -41,7 +41,7 @@
 
 1. [Angoli](https://nbviewer.jupyter.org/github/Darkaquon/Physics-with-Open-Source-Software/blob/master/Notebook/Angoli.ipynb)
 2. [Funzioni trigonometriche](https://nbviewer.jupyter.org/github/Darkaquon/Physics-with-Open-Source-Software/blob/master/Notebook/Funzioni.ipynb)
----------
+
 &nbsp;
 --------------
 <div align = "center">
