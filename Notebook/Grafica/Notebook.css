@@ -1,6 +1,6 @@
 /* File CSS */
 
-/* Utilizzato per modificare la visualizzazione grafica del notebook. */
+/* File utilizzato per modificare la visualizzazione del notebook. */
 
 <style>
 
@@ -34,17 +34,17 @@ div #notebook {
     padding-left: 0em;
 }
 
-/* Utilizzato per modificare lo spazio tra gli elementi di un elenco puntato. */
+/* Utilizzato per modificare lo spazio tra gli elementi di una lista. */
 #notebook li {
     margin-top: 0.5em;
 }
 
-/* Utilizzato per disegnare un bordo intorno alle celle in esecuzione. */
+/* Utilizzato per disegnare un bordo attorno alle celle in esecuzione. */
 div.cell.border-box-sizing.code_cell.running {
     border: 1px solid #111;
 }
 
-/* Utilizzato per creare un box intorno le celle e gli outputs per collegarli visivamente. */
+/* Utilizzato per creare un box intorno alle celle e agli outputs per collegarli visivamente. */
 div.cell.code_cell {
     background-color: rgb(256, 256, 256);
     border-radius: 0px;
@@ -63,7 +63,8 @@ div.text_cell_render {
     margin-right: auto;
 }
 
-/* Utilizzato per modificare il testo delle intestazioni. */
+/* Utilizzato per modificare le intestazioni. */
+
 .text_cell_render h1 {
     font-family: "Merriweather", serif;
     font-style: regular;
@@ -96,7 +97,7 @@ div.text_cell_render {
     color: #008367;
 }
 
-/* Utilizzarlo per le didascalie. */
+/* Da utilizzare per le didascalie. */
 .text_cell_render h4 {
     font-family: "Merriweather", serif;
     font-weight: 300;
@@ -110,7 +111,7 @@ div.text_cell_render {
     font-style: regular;
 }
 
-/* Utilizzarlo per i titoli piccoli. */
+/* Da utilizzare per i titoli più piccoli. */
 .text_cell_render h5 {
     font-family: "Source Sans Pro", sans-serif;
     font-weight: regular;
@@ -122,7 +123,7 @@ div.text_cell_render {
     display: block;
 }
 
-/* Utilizzarlo per le note dei copyright. */
+/* Da utilizzare per le note, ad esempio i copyright. */
 .text_cell_render h6 {
     font-family: "Source Code Pro", sans-serif;
     font-weight: 300;
@@ -139,9 +140,11 @@ div.text_cell_render {
 }
 
 /*
+
 .prompt {
     display: None;
 }
+
 */
 
 .warning {
@@ -150,21 +153,22 @@ div.text_cell_render {
 
 </style>
 
+/* Script */
 <script>
 
-    MathJax.Hub.Config({
-                        TeX: {
-                           extensions: ["AMSmath.js"],
-                           equationNumbers: {autoNumber: "AMS", useLabelIds: true}
-                           },
-                tex2jax: {
-                    inlineMath: [["$", "$"], ["\\(", "\\)"]],
-                    displayMath: [["$$", "$$"], ["\\[", "\\]"]]
-                },
-                displayAlign: "center", // Change this to "center" to center equations.
-                "HTML-CSS": {
-                    styles: {".MathJax_Display": {"margin": 4}}
-                }
-        });
+MathJax.Hub.Config({
+    TeX: {
+        extensions: ["AMSmath.js"],
+        equationNumbers: {autoNumber: "AMS", useLabelIds: true}
+},
+    tex2jax: {
+        inlineMath: [["$", "$"], ["\\(", "\\)"]],
+        displayMath: [["$$", "$$"], ["\\[", "\\]"]]
+},
+    displayAlign: "center", // Change this to "center" to center equations.
+    "HTML-CSS": {
+        styles: {".MathJax_Display": {"margin": 4}}
+}
+});
 
 </script>
