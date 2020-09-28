@@ -58,7 +58,7 @@ See the Jupyter notebooks with **Binder**.
 
 ### About this repo
 
-Questo repository è un sito di sviluppo connesso alla realizzazione dell'archivio [Simple Physics with Python](https://github.com/POSS-UniMe/simple-physics-with-Python-ITA) disponibile su GitHub.
+Questo repository è un sito di sviluppo collegato alla realizzazione dell'archivio [Simple Physics with Python](https://github.com/POSS-UniMe/simple-physics-with-Python-ITA) disponibile su GitHub.
 
 ### Acknowledgment
 
