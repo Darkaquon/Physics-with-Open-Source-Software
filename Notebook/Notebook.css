@@ -11,9 +11,9 @@
 
 /* Utilizzato per creare un box colorato. */
 #colorbox {
-    background-color: #000;
+    background-color: #0075E2;
     padding: 10px;
-    border: 1px solid green;
+    border: 1px solid black;
     margin-top: 10px;
 }
 
