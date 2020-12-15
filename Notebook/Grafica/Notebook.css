@@ -17,6 +17,7 @@
     margin-top: 10px;
 }
 
+/* Utilizzato per modificare le immagini. */
 #immagine {
     margin-top: 10px;
 }
@@ -76,44 +77,46 @@ div.text_cell_render {
     font-weight: bold;
     font-size: 250%;
     line-height: 100%;
-    color: #004065;
-    margin-bottom: 1em;
+    color: #000000;
     margin-top: 0.5em;
+    margin-bottom: 1em;
     display: block;
 }
 
 .text_cell_render h2 {
     font-family: "Merriweather", serif;
+    font-style: regular;
     font-weight: bold;
-    font-size: 180%;
+    font-size: 175%;
     line-height: 100%;
-    color: #0096d6;
-    margin-bottom: 0.5em;
+    color: #000000;
     margin-top: 0.5em;
+    margin-bottom: 0.5em;
     display: block;
 }
 
 .text_cell_render h3 {
     font-family: "Merriweather", serif;
-	font-size: 150%;
-    margin-top: 12px;
-    margin-bottom: 3px;
     font-style: regular;
-    color: #008367;
+    font-weight: bold;
+	font-size: 150%;
+    line-height: 100%;
+    color: #0075E2;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    display: block;
 }
 
-/* Da utilizzare per le didascalie. */
 .text_cell_render h4 {
     font-family: "Merriweather", serif;
-    font-weight: 300;
-    font-size: 100%;
-    line-height: 120%;
-    text-align: left;
-    width: 500px;
-    margin-top: 1em;
-    margin-bottom: 2em;
-    margin-left: 80pt;
     font-style: regular;
+    font-weight: bold;
+    font-size: 125%;
+    line-height: 100%;
+    color: #0075E2;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    display: block;
 }
 
 /* Da utilizzare per i titoli più piccoli. */
@@ -121,7 +124,7 @@ div.text_cell_render {
     font-family: "Source Sans Pro", sans-serif;
     font-weight: regular;
     font-size: 130%;
-    color: #e31937;
+    color: #000000;
     font-style: italic;
     margin-bottom: .5em;
     margin-top: 1em;
@@ -134,7 +137,7 @@ div.text_cell_render {
     font-weight: 300;
     font-size: 9pt;
     line-height: 100%;
-    color: grey;
+    color: #000000;
     margin-bottom: 1px;
     margin-top: 1px;
 }
