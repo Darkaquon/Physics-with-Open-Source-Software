@@ -78,44 +78,45 @@ div.text_cell_render {
     font-size: 250%;
     line-height: 100%;
     color: #000000;
-    margin-bottom: 1em;
     margin-top: 0.5em;
+    margin-bottom: 1em;
     display: block;
 }
 
 .text_cell_render h2 {
     font-family: "Merriweather", serif;
+    font-style: regular;
     font-weight: bold;
-    font-size: 180%;
+    font-size: 175%;
     line-height: 100%;
     color: #000000;
-    margin-bottom: 0.5em;
     margin-top: 0.5em;
+    margin-bottom: 0.5em;
     display: block;
 }
 
 .text_cell_render h3 {
     font-family: "Merriweather", serif;
-	font-size: 150%;
-    margin-top: 12px;
-    margin-bottom: 3px;
     font-style: regular;
-    color: #000000;
+    font-weight: bold;
+	font-size: 150%;
+    line-height: 100%;
+    color: #0075E2;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    display: block;
 }
 
-/* Da utilizzare per le didascalie. */
 .text_cell_render h4 {
     font-family: "Merriweather", serif;
-    font-weight: 300;
-    font-size: 100%;
-    line-height: 120%;
-    text-align: left;
-    width: 500px;
-    margin-top: 1em;
-    margin-bottom: 2em;
-    margin-left: 80pt;
     font-style: regular;
+    font-weight: bold;
+    font-size: 125%;
+    line-height: 100%;
     color: #0075E2;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    display: block;
 }
 
 /* Da utilizzare per i titoli più piccoli. */
